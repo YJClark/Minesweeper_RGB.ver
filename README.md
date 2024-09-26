@@ -1,4 +1,4 @@
-# Minesweeper_RGB.ver
+# Minesweeper_RPG.ver
 
 This project is the final submission for the course Development and Application of Information Automation at National Cheng Kung University (NCKU), department of Industrial and Information Management (IIM).
 
