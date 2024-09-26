@@ -4,7 +4,7 @@ This project is the final submission for the course Development and Application 
 
 We developed an Advanced Minesweeper Game, integrating traditional Minesweeper mechanics with RPG (Role-Playing Game) elements to offer a unique and engaging gaming experience.
 
-(Since the file is too large to upload, the file can be downloaded from [this](https://drive.google.com/drive/folders/1yoet9lcGLb_0N1kHp6iDGfngiRz9vyE7?usp=sharing))
+*Since the file is too large to upload, the file can be downloaded from [this](https://drive.google.com/drive/folders/1yoet9lcGLb_0N1kHp6iDGfngiRz9vyE7?usp=sharing)*
 
 ***
 ## Instructions
